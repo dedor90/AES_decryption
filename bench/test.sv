@@ -121,7 +121,15 @@ program tb (ifc.bench ds);
 
 		send_k_ld_rst (t.ld, t.rst);
 		t.done   = get_k_done();
-		t.status = get_k_status();	
+		t.kstatus = get_k_status();	
+
+        if (t.kstatus == 13) begin
+            t.kld_phase = 0;
+        end
+
+        if (t.kstatus == 0) begin
+            t.kld_phase = 1;
+        end
 
 		$fdisplay (f, "\n");
 

@@ -55,7 +55,7 @@ int get_k_done() {
 		kstatus = 0;
 	}
 
-    if (kstatus = s_ct){
+    if (kstatus == s_ct){
         done = 1;
     }
 	else
