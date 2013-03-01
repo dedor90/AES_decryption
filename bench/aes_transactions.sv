@@ -10,7 +10,10 @@ class aes_transaction;
 	rand bit	ld;
 	bit		done;
 	int		status;
+    int     kstatus;
 
+
+    boolean kld_phase;    
 	int		const_key;
 
 	int 		ld_density;
@@ -29,6 +32,14 @@ class aes_transaction;
 	constraint ld_status {
 		(status != 0) -> (ld == 0);
 	}
+    
+    constraint ld_kstatus {
+        (kstatus != 0) -> (ld == 0);
+    
+    }
+
+
+
 
 endclass
 
