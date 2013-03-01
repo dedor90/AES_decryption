@@ -13,7 +13,7 @@ class aes_transaction;
     int     kstatus;
 
 
-    boolean kld_phase;    
+    bit kld_phase;    
 	int		const_key;
 
 	int 		ld_density;

@@ -18,6 +18,7 @@ void print_verilog_hex(word w[], int bit_num);
 int  rst;
 int  ld;
 int  status = 0;
+int  kstatus = 0;
 int  done;
 word ctext[4];
 word state[4];

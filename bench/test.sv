@@ -30,7 +30,6 @@ program tb (ifc.bench ds);
 
 
 	int rst_chk;
-    t.kld_phase = true;
 
 	integer f;
 
@@ -75,9 +74,9 @@ program tb (ifc.bench ds);
 	
 		ds.cb.rst		<= 	t.rst;
 
-        if (t.kld_phase) begin
+        if (t.kld_phase==1) begin
 		    ds.cb.kld		<= 	t.ld;
-            ds.cd.ld        <=  0;
+            ds.cb.ld        <=  0;
         end else begin
             ds.cb.ld        <=  1;   //assert load one kld_phase if finished
             ds.cb.kld       <=  0;
@@ -88,7 +87,7 @@ program tb (ifc.bench ds);
 		ds.cb.key[95:64 ]	<= 	t.key[95:64]; 		
 		ds.cb.key[127:96]	<= 	t.key[127:96]; 	
         
-        if (t.ld = 1) begin
+        if (t.ld == 1) begin
             dtext[0] = t.text[0];
             dtext[1] = t.text[1];
             dtext[2] = t.text[2];
@@ -170,6 +169,7 @@ program tb (ifc.bench ds);
 		end
 
 		t = new( env.ld_density, env.reset_density );
+		t.kld_phase = 1;
 
 		if (env.single_key == 1) begin 
 			t.const_key = 1; 
