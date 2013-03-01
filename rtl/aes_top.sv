@@ -4,8 +4,20 @@
 
 module aes_top(ifc.dut d);
 
+aes_inv_cipher_top decipher(
+    .clk(d.clk),
+    .rst(d.rst),
+    .kld(d.kld),
+    .ld(d.ld),
+    .done(d.done),
+    .key(d.key),
+    .text_in(d.text_in),
+    .text_out(d.text_out)
+);
 
-	aes_cipher_top cipher (
+
+
+/*	aes_cipher_top cipher (
 			.clk(d.clk),	
 			.rst(d.rst),
 			.ld(d.ld),
@@ -48,6 +60,6 @@ module aes_top(ifc.dut d);
 			.sa33_sub(d.sa33_sub)
 			);
 
-
+*/
 
 endmodule
