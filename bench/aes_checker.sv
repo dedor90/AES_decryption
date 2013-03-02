@@ -5,7 +5,7 @@ class aes_checker;
     int k_ct = 29;
 
 	function void check_result (int dut_text_0, int dut_text_1, int dut_text_2, int dut_text_3, int dut_done, 
-				   int unsigned bench_text_o[], int bench_done, int status, int rst_chk);
+				   int unsigned bench_text_o[], int bench_done, int kstatus, int rst_chk);
 
 		int verbose = 0;
 		bit text_passed;
