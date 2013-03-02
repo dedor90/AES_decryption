@@ -263,7 +263,7 @@ void rearrange_cipher() {
 		n[i] = o[15-i];
 	   }
    }
-
+}
 
 
 void rearrange_k_text() {
@@ -281,7 +281,7 @@ void rearrange_k_text() {
 }
 
 
-void rearrange_key() {
+void rearrange_k_key() {
     int i;
     byte *n = (byte *)key;
     word x[4];
@@ -295,7 +295,7 @@ void rearrange_key() {
  //  }
 }
 
-void rearrange_cipher() {
+void rearrange_k_cipher() {
 
     #ifdef print
     printf ("\n C : status at cipher : %d \n", status);
@@ -313,5 +313,4 @@ void rearrange_cipher() {
   // }
 }
 
-}
 

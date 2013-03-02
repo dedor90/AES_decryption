@@ -17,8 +17,16 @@ program tb (ifc.bench ds);
     import "DPI-C" function void send_k_ld_rst( int i, int j );
 	import "DPI-C" function int get_done();
 	import "DPI-C" function int get_status();
+
+
 	import "DPI-C" function int get_k_done();
 	import "DPI-C" function int get_k_status();
+        import "DPI-C" function void rebuild_k_text(input int txt, input int i);
+        import "DPI-C" function void rebuild_k_key(input int ky, input int i);
+        import "DPI-C" function void generate_k_ciphertext();
+        import "DPI-C" function void rearrange_k_text();
+        import "DPI-C" function void rearrange_k_key();
+        import "DPI-C" function void rearrange_k_cipher();
 
 	aes_checker checker;
 	aes_transaction t;
@@ -77,7 +85,7 @@ program tb (ifc.bench ds);
         if (t.kld_phase==1 && t.kstatus == 0) begin
 		    ds.cb.kld		<= 	t.ld;
             ds.cb.ld        <=  0;
-        end else if (k.kld_phase == 0 && t.kstatus == 14) begin
+        end else if (t.kld_phase == 0 && t.kstatus == 14) begin
             ds.cb.ld        <=  1;   //assert load one kld_phase if finished
             ds.cb.kld       <=  0;
         end else begin
