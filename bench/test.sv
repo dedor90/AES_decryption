@@ -35,6 +35,7 @@ program tb (ifc.bench ds);
 	int en_ce_stat = 0;
 	int unsigned ctext[4];
     int unsigned dtext[4];
+    bit unsigned ktext[127:0];
 
 
 	int rst_chk;
@@ -85,6 +86,11 @@ program tb (ifc.bench ds);
         if (t.kld_phase==1 && t.kstatus == 0) begin
 		    ds.cb.kld		<= 	t.ld;
             ds.cb.ld        <=  0;
+            ktext[31:0]  = t.key[31:0];
+            ktext[63:32] = t.key[63:32];
+            ktext[95:64] = t.key[95:64];
+            ktext[127:96] = t.key[127:96];
+
         end else if (t.kld_phase == 0 && t.kstatus == 14) begin
             ds.cb.ld        <=  1;   //assert load one kld_phase if finished
             ds.cb.kld       <=  0;
@@ -110,10 +116,10 @@ program tb (ifc.bench ds);
 		rebuild_k_text(t.text[3], 3);
 		rearrange_k_text();
 
-		rebuild_k_key(t.key[31:0], 0);
-		rebuild_k_key(t.key[63:32], 1);
-		rebuild_k_key(t.key[95:64], 2);
-		rebuild_k_key(t.key[127:96], 3);
+		rebuild_k_key(ktext[31:0], 0);
+		rebuild_k_key(ktext[63:32], 1);
+		rebuild_k_key(ktext[95:64], 2);
+		rebuild_k_key(ktext[127:96], 3);
 		rearrange_k_key();
 
 		generate_k_ciphertext();
