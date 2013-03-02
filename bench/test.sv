@@ -165,8 +165,8 @@ program tb (ifc.bench ds);
 		$fdisplay (f, "Result from GoldenModel : %h%h%h%h ", dtext[3], dtext[2], dtext[1], dtext[0]);	
 		$fdisplay (f, "Result from DUT : %h%h%h%h ", ds.cb.text_out[127:96], ds.cb.text_out[95:64], ds.cb.text_out[63:32], ds.cb.text_out[31:0]);
 
-//		checker.check_result(ds.cb.text_out[31:0],  ds.cb.text_out[63:32], ds.cb.text_out[95:64],  
-//				     ds.cb.text_out[127:96], ds.cb.done, ctext, t.done, t.status, rst_chk);
+		checker.check_result(ds.cb.text_out[31:0],  ds.cb.text_out[63:32], ds.cb.text_out[95:64],  
+				     ds.cb.text_out[127:96], ds.cb.done, dtext, t.done, t.kstatus, rst_chk);
 
 
 	@(ds.cb);

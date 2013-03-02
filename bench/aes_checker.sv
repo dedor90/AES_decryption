@@ -2,6 +2,7 @@ class aes_checker;
 	bit pass;
 	integer f;
 	int s_ct = 14;
+    int k_ct = 29;
 
 	function void check_result (int dut_text_0, int dut_text_1, int dut_text_2, int dut_text_3, int dut_done, 
 				   int unsigned bench_text_o[], int bench_done, int status, int rst_chk);
@@ -11,7 +12,7 @@ class aes_checker;
 		bit done_passed;
 
 
-	if (status == s_ct ) begin
+	if (kstatus == k_ct ) begin
  
 		text_passed = (dut_text_0 == bench_text_o[0]) && (dut_text_1 == bench_text_o[1]) &&
 		    	      (dut_text_2 == bench_text_o[2]) && (dut_text_3 == bench_text_o[3]);
@@ -37,7 +38,7 @@ class aes_checker;
 				$exit();
 		end
 
-	end else if (status < s_ct || status == 0) begin
+	end else if (kstatus < k_ct || kstatus == 0) begin
 
 		done_passed = (dut_done == bench_done);
 		text_passed = 1;
