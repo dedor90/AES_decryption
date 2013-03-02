@@ -74,11 +74,14 @@ program tb (ifc.bench ds);
 	
 		ds.cb.rst		<= 	t.rst;
 
-        if (t.kld_phase==1) begin
+        if (t.kld_phase==1 && t.kstatus == 0) begin
 		    ds.cb.kld		<= 	t.ld;
             ds.cb.ld        <=  0;
-        end else begin
+        end else if (k.kld_phase == 0 && t.kstatus == 14) begin
             ds.cb.ld        <=  1;   //assert load one kld_phase if finished
+            ds.cb.kld       <=  0;
+        end else begin
+            ds.cb.ld        <=  0;
             ds.cb.kld       <=  0;
         end
 
@@ -94,20 +97,20 @@ program tb (ifc.bench ds);
             dtext[3] = t.text[3];
         end
 
-        rebuild_text(t.text[0], 0);
-		rebuild_text(t.text[1], 1);
-		rebuild_text(t.text[2], 2);
-		rebuild_text(t.text[3], 3);
-		rearrange_text();
+        rebuild_k_text(t.text[0], 0);
+		rebuild_k_text(t.text[1], 1);
+		rebuild_k_text(t.text[2], 2);
+		rebuild_k_text(t.text[3], 3);
+		rearrange_k_text();
 
-		rebuild_key(t.key[31:0], 0);
-		rebuild_key(t.key[63:32], 1);
-		rebuild_key(t.key[95:64], 2);
-		rebuild_key(t.key[127:96], 3);
-		rearrange_key();
+		rebuild_k_key(t.key[31:0], 0);
+		rebuild_k_key(t.key[63:32], 1);
+		rebuild_k_key(t.key[95:64], 2);
+		rebuild_k_key(t.key[127:96], 3);
+		rearrange_k_key();
 
-		generate_ciphertext();
-        rearrange_cipher();
+		generate_k_ciphertext();
+        rearrange_k_cipher();
 		
         ctext[0] = get_ciphertext(0);
 		ctext[1] = get_ciphertext(1);

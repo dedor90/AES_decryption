@@ -128,6 +128,14 @@ void rebuild_text(word t_state, int i) {
 	#endif
 }
 
+void rebuild_k_text(word t_state, int i){
+    state[i] = t_state;
+}
+
+void rebuild_k_key(word t_key, int i){
+    key[i] = t_key;
+}
+
 void rebuild_key(word t_key, int i) {
 
 	if (status == 1)
@@ -143,6 +151,16 @@ void rebuild_key(word t_key, int i) {
 	print_verilog_hex(key, 128);
 	printf ("\n");
 	#endif
+}
+
+void generate_k_ciphertext(int rst){
+	encrypt_128_key_expand_inline_no_branch(state, key);
+
+	ctext[0] = state[0];
+	ctext[1] = state[1];
+	ctext[2] = state[2];
+	ctext[3] = state[3];
+
 }
 
 void generate_ciphertext(int rst){
@@ -245,4 +263,55 @@ void rearrange_cipher() {
 		n[i] = o[15-i];
 	   }
    }
+
+
+
+void rearrange_k_text() {
+    int i;
+    byte *n = (byte *)state;
+    word x[4];
+    x[0] = state[0]; x[1] = state[1]; x[2] = state[2]; x[3] = state[3];
+
+ //   if (status == 1) {
+	    byte *o = (byte *)x;
+	    for (i=0; i<16; i++) {
+		n[i] = o[15-i];
+    	}
+   // }
 }
+
+
+void rearrange_key() {
+    int i;
+    byte *n = (byte *)key;
+    word x[4];
+    x[0] = key[0]; x[1] = key[1]; x[2] = key[2]; x[3] = key[3];
+
+  //  if (status == 1) {
+	    byte *o = (byte *)x;
+	    for (i=0; i<16; i++) {
+		n[i] = o[15-i];
+   	}
+ //  }
+}
+
+void rearrange_cipher() {
+
+    #ifdef print
+    printf ("\n C : status at cipher : %d \n", status);
+    #endif
+    int i;
+    byte *n = (byte *)ctext;
+    word x[4];
+    x[0] = ctext[0]; x[1] = ctext[1]; x[2] = ctext[2]; x[3] = ctext[3];
+
+  //  if (status == s_ct) {
+	    byte *o = (byte *)x;
+	    for (i=0; i<16; i++) {
+		n[i] = o[15-i];
+	   }
+  // }
+}
+
+}
+
