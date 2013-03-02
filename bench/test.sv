@@ -35,7 +35,7 @@ program tb (ifc.bench ds);
 	int en_ce_stat = 0;
 	int unsigned ctext[4];
     int unsigned dtext[4];
-    bit unsigned ktext[127:0];
+    bit[127:0]  ktext;
 
 
 	int rst_chk;

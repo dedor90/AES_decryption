@@ -97,7 +97,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b851b0947c227890c45b0cf56ce782d4
-CIPHERED TEXT: 63c7926c006b83dfea709e13b3d91ab7
+CIPHERED TEXT: 33dd65aecd177567c30e16ad86ee9a0a
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -112,7 +112,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ea6e00a56a0c8c5046ddf26a7ca2bd8f
-CIPHERED TEXT: d4701deb691f68641cc41eeef2777ceb
+CIPHERED TEXT: 6867c86a0d5dd42b40bc40d4404eb3cf
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -127,7 +127,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 0fcec7e31cef29deae88d1d86c64b862
-CIPHERED TEXT: 767a95d3eb2d56a04c5a76d7742938d0
+CIPHERED TEXT: f28b819087aa2f3af9c6c4c35c7c3899
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -142,7 +142,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 10a2b92ee31b501625a4c68a9c88a3bd
-CIPHERED TEXT: b1e13ad3cffdfbe4332da5a0c2d29f66
+CIPHERED TEXT: afa4dcb25754c682cd25df09a78498e0
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -157,7 +157,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: f364d65adff2917c7c2cc1241ec717bc
-CIPHERED TEXT: c4c5b501c428c109bf353935dd3c0508
+CIPHERED TEXT: e10e1d342f9c658810cf37e85a84be5e
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -172,7 +172,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b9807fcd9e5213708b4b2c5174810de9
-CIPHERED TEXT: 8efa71b2cc25b22d1f7e284d088dd887
+CIPHERED TEXT: 206c93e2d4245d5105591c2c9b12558a
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -187,7 +187,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 0adffa810b1cfb6dbc2f737adcde21c7
-CIPHERED TEXT: e40097d9403156448901a7236ec1f0f4
+CIPHERED TEXT: 3d8178c372052aa25c893c2f083c13ef
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -202,7 +202,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 07ed3b0bbe79f7c3edbe04a404a61ca0
-CIPHERED TEXT: afa6edb9e7a6387c6f700b5095b9d519
+CIPHERED TEXT: f456fbf2960cfc33f9e4b06c70511e00
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -217,7 +217,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 6388dc627652dc2dd8c6244789b1bc20
-CIPHERED TEXT: 0b0e8019be74312b23c5f0420143e91b
+CIPHERED TEXT: 5214f9150656cba0b23a12dc02251ccd
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -232,7 +232,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 1b4bb52e175e3a4f479747a2424f8767
-CIPHERED TEXT: 277f71133ba103e3c288438b515530c5
+CIPHERED TEXT: b7147b73f5d169b1085ba855f6dbd9a0
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -247,7 +247,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ed91806566350d65d450e6c171a2e2ce
-CIPHERED TEXT: 2b1ddad09811a64191ce5ac5d935ae06
+CIPHERED TEXT: d536f068b6c196c353452b22a78f4d86
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -262,7 +262,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: dc599974bb74d887b5be23fa13db04fa
-CIPHERED TEXT: 078fa9ad96d13cfb2ed4be99ef55a913
+CIPHERED TEXT: 42598f4f32cdcb31a3c50eb2c6271864
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -277,7 +277,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 0d3cd9da60a722d67e6d3f3235b2d4d3
-CIPHERED TEXT: 6f3d5a13947c4b189704a5083bb44f38
+CIPHERED TEXT: a6185b69cdfb63e1263191d6c76e6e40
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -292,7 +292,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 6e01c22af19d407b52c6677dcec791ba
-CIPHERED TEXT: 402fdb2407d8a14aaa8cd97f9265fda5
+CIPHERED TEXT: 04751d4004c5323c0b0db8cc8ab8056e
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -307,7 +307,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 6b38b90b68622e3032d5a4fe25173c22
-CIPHERED TEXT: 6ec19fb705ed73af720576d4b0a8f4f0
+CIPHERED TEXT: 0b0f315e6d7b11d15020b93abd811a59
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -322,7 +322,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: a7e549a24bbac0ec7274249766eac30b
-CIPHERED TEXT: e2b9ddae6750967e58e5b4e1e7cbd62f
+CIPHERED TEXT: 3334c3936b64549eb1e9f4f84e587361
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -337,7 +337,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: d4ba734b9e0ae28781e9ca03b491248f
-CIPHERED TEXT: fc35fb54dbf7f8ecbdb523ed518f976b
+CIPHERED TEXT: 3704f2035b157140c74ed07b094b66da
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -352,13 +352,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b762bc07ea45508e0e09323de33509c3
-CIPHERED TEXT: 8e151bba7f0e37c13bf2fd98712ac92b
+CIPHERED TEXT: 1abdfc092f309b30acda7726250a2e9c
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 2a4b12bca9309d96d34d4de3d6b3845e 
+Result from DUT : d5bd38f7c860e62151f29767ed185f02 
 
 
 ------------- Simulation Time -----------------               235000
@@ -367,13 +367,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: f91b55edc06fb8e484e355bdaf34e372
-CIPHERED TEXT: 676dc80d332ee77dcc08460017fe2914
+CIPHERED TEXT: 4a64bf965ca7310fa01024334cd85481
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : b8b610287145103f5904fd98e196dac8 
+Result from DUT : 58a46c46a96d8b1d321a84c599e828ba 
 
 
 ------------- Simulation Time -----------------               245000
@@ -382,13 +382,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b3307826b29d26c77443d7328a5c9d96
-CIPHERED TEXT: 8c809833d7f2b519b0c6343828c94266
+CIPHERED TEXT: 73d8036bb81854ef20ff1985bb078b8a
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : ca6fa2e05ab2ab21dfd262ce71e7999f 
+Result from DUT : 0bab123aaa6a318f20907e1856a3bfcd 
 
 
 ------------- Simulation Time -----------------               255000
@@ -397,13 +397,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: cdae2a815f5f8318ee29f627dd6fb069
-CIPHERED TEXT: 29da8854663608073f0f8b3826f3461a
+CIPHERED TEXT: 62e7206ac280554a5b9153fb4ac507a6
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 60469e23de328508cd0707e40a36fee3 
+Result from DUT : ac6646c85214000818e9c39d0b1ddc51 
 
 
 ------------- Simulation Time -----------------               265000
@@ -412,13 +412,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b69fd0a5741744f38004192e6a42c13f
-CIPHERED TEXT: d48da32fb4fca97b4abeb29b97e4c993
+CIPHERED TEXT: c88a14cace08b934d62ab7457eaae870
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : e7d559d21ab0826a409ded2dcfb3358a 
+Result from DUT : 1739afd8bec15d699927ee15ad6ad92f 
 
 
 ------------- Simulation Time -----------------               275000
@@ -427,13 +427,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: fcdcbc1fabbd930a520fac1b16f87ea6
-CIPHERED TEXT: 25a730a53e9d338d4279c7e3e038e9d7
+CIPHERED TEXT: afc7c7911c9f32d17b281010dbe9773b
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 7d5542837ef1f7332703db90460bcd53 
+Result from DUT : 1348258bfc847aeeb904cf59b90a9819 
 
 
 ------------- Simulation Time -----------------               285000
@@ -442,13 +442,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 5519be759189d19e52e3c647073d087b
-CIPHERED TEXT: d98626d3ebabe6a3687e49ed5f3c9973
+CIPHERED TEXT: 6a60fbf943459b83d546e4bf3067f758
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 715f648398c7c72df1839a27d63d594e 
+Result from DUT : 879656f2a4455f63e97c6e85b2136b10 
 
 
 ------------- Simulation Time -----------------               295000
@@ -457,13 +457,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 553830b2315e057bdbd06b6db3ca1ac2
-CIPHERED TEXT: 6bba1b9cb1485b5cd47be32dc2a10398
+CIPHERED TEXT: 4cc539586f0d5c7495cf675e63ada57d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 1ad84d0591cc75af31125dc0e04394d4 
+Result from DUT : c547294733546e82d3202923b9f650a9 
 
 
 ------------- Simulation Time -----------------               305000
@@ -472,13 +472,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: abb6798db27fdea29774a1cae2ba8512
-CIPHERED TEXT: d06b485d6ce625ffe06cf938fc2e896b
+CIPHERED TEXT: e17b76398efdb01dd7cc591a59db8e47
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : aaa1cab9f2c121c213cbef2939cbe878 
+Result from DUT : afa2c41260dd6563d19084fff11d3dcc 
 
 
 ------------- Simulation Time -----------------               315000
@@ -487,13 +487,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 33fbe908e8195bc2be9d125123e49a3e
-CIPHERED TEXT: 52590e58fcb4960b3ec8f1447c45fddb
+CIPHERED TEXT: 87f3080996cb63c558f19fc665fffc14
 Final Outputs:
 --------------------
 DUT Done : 1
 GoldenModel Done : 1
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 928013ed87f7e4bd6d8ba46b303106a8 
+Result from DUT : fbb3f804f33b8c35f0f7457a5d196763 
 
 
 ------------- Simulation Time -----------------               325000
@@ -517,7 +517,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 813733595ced03f17d9facbae7c5cb29
-CIPHERED TEXT: 5a99f10426108970e58e35697336c6ec
+CIPHERED TEXT: 5bcdf3fcbd30aafe1a015bbb106659b9
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -532,13 +532,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 77f9e922089e4339f3379dae93a6990d
-CIPHERED TEXT: cd29787e3113b0a181e07ad3d57750cf
+CIPHERED TEXT: bcba6e0158b26516cd4b498a85b91cd9
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : cd5dffc060c2ba44c1f58a1b79261cd9 
+Result from DUT : 59d5154c6387ca5fae0dde00e9a8a802 
 
 
 ------------- Simulation Time -----------------               355000
@@ -547,13 +547,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: e4d39590f5f5a5d3fb9b078ec4d6accf
-CIPHERED TEXT: f5c35deaef5b3875e311f2486fce14ec
+CIPHERED TEXT: 3d22d4838c4446c4bb1d8c1023cba478
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : b66c3d95b88d47275f22ff0860c09683 
+Result from DUT : d0cdf4a0796442e145581a46f9212f77 
 
 
 ------------- Simulation Time -----------------               365000
@@ -562,13 +562,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 3c547f006ca239250da56eb97ff3ffb9
-CIPHERED TEXT: 5cf3a71504009ea6521da220c233a40e
+CIPHERED TEXT: 850d76c80eab71a65017764a930670c1
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 4ea614201e9cd322facd650538399740 
+Result from DUT : 0c3177ab9a1044aed97177d87cd3f2d8 
 
 
 ------------- Simulation Time -----------------               375000
@@ -577,13 +577,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 5f887618d39eb586b6b308f8c32a3dee
-CIPHERED TEXT: b962e6327609a719305475bdd50c6138
+CIPHERED TEXT: cbd6813fec0d60676345c60a99a8e209
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : ff8893b233810690ebb4f0b8d5049533 
+Result from DUT : 2544f6921be105bae15edae4f32cc04a 
 
 
 ------------- Simulation Time -----------------               385000
@@ -592,13 +592,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 715bb0acbe13540931a4cf70589d2ef6
-CIPHERED TEXT: 877a35038268f535c3f7d5b82377ccfd
+CIPHERED TEXT: e0afa80bfcc11772c8cf66fce1bf0c15
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 3190c6cf45f1a829e648764d883df689 
+Result from DUT : 67ccaca5a22d500d67fe0a3255438601 
 
 
 ------------- Simulation Time -----------------               395000
@@ -607,13 +607,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 1ea49a98ee9349752196ceac841f03e7
-CIPHERED TEXT: 896ad2bafdf43d83ffd91c16a4e49f93
+CIPHERED TEXT: 60ab21e24b1d3c1e696dd74aeb644779
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : cc708a58e3a5ead00f80d42f5f605c95 
+Result from DUT : f083299ae9220beff685a96896a06587 
 
 
 ------------- Simulation Time -----------------               405000
@@ -622,13 +622,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 9f354826410bcad3d44b983244b9e197
-CIPHERED TEXT: bcfe396f176d2dc154ab3cfd1d997b9c
+CIPHERED TEXT: cfcae92f48e07edd04b4db4371d4f30a
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 07b0264bbbac7d7ced7f2299b01b7c14 
+Result from DUT : 6e04dd831b8cdef947d5feb0fcafcc09 
 
 
 ------------- Simulation Time -----------------               415000
@@ -637,13 +637,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: dc80efe76924f3aaac361fcf190bf625
-CIPHERED TEXT: 1feb9cf7c50ba9663e5fa421c5790ce7
+CIPHERED TEXT: 1d49fa87ed4d145436c61522dc122538
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : acb2116e0ad2e9e2088bfa23fdef6103 
+Result from DUT : 36f1fd44c392ec12f4508ff345147b45 
 
 
 ------------- Simulation Time -----------------               425000
@@ -652,13 +652,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 522f97c848b4ea31febdaf2dfb68c177
-CIPHERED TEXT: d46e8febeac99969804ea9c617868e85
+CIPHERED TEXT: 539bcb22b78e7ffa331b001acc3dc91e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 962a141b4cfb303c8e28f02ad328703d 
+Result from DUT : 605e1f71bc42e68eeaf63063e7bf6515 
 
 
 ------------- Simulation Time -----------------               435000
@@ -667,13 +667,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ff5fcb2807a3ee0190282da8d1998f29
-CIPHERED TEXT: 00641ba8133f5b6dfb7765727f9e1ee1
+CIPHERED TEXT: a3bdf520183e2051dc5442f6b6446d69
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : ec88449368c19aa71d47e3d852eeefe4 
+Result from DUT : b764c83704f150f8e68fbc0f662619b5 
 
 
 ------------- Simulation Time -----------------               445000
@@ -682,13 +682,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 4127d90812a9407f6a197cfcf171f678
-CIPHERED TEXT: f0050ea956ce91451e84fccbf7a85695
+CIPHERED TEXT: 16f558c4dcfdcf906ddbdc6c8959b1d5
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : f03d8793b36485aea5bd5d04eb0f6f78 
+Result from DUT : a9248c82241031ff54ec61c3023f4bb7 
 
 
 ------------- Simulation Time -----------------               455000
@@ -697,13 +697,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 748993f73b92bc2645481318519f6769
-CIPHERED TEXT: d230e3419ee32a9986e0b7e1806c09b3
+CIPHERED TEXT: b1fea2d993ba4fb20d0eb839fa87deef
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fbb3f804f33b8c35f0f7457a5d196763 
-Result from DUT : 48d13addeea884afee3d26580d155b63 
+Result from DUT : 300de3952009d182a8786a533ca41041 
 
 
 ------------- Simulation Time -----------------               465000
@@ -712,13 +712,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: e5853c008577976ea1075fd250e3fbc4
-CIPHERED TEXT: 15f9a4081b9c68ee39c51a3a12352216
+CIPHERED TEXT: 68ba6799f5ef7e702c875f5414a16475
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 8a690b74c65eb181509f7a214d68469e 
+Result from DUT : be977e886bf604bc9932d8d224306cd5 
 
 
 ------------- Simulation Time -----------------               475000
@@ -727,13 +727,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 80fc1219ef1ab26b1f40067220173c93
-CIPHERED TEXT: e2bc139cd4f34e0acda4e2f80d404214
+CIPHERED TEXT: 536cee1387a1c3022f224752315e73a4
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 260ef95a81e4eb16a0b7683d05113786 
+Result from DUT : 61e267c53072b6494d18801109da598a 
 
 
 ------------- Simulation Time -----------------               485000
@@ -742,13 +742,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 7da9954f3caf97783405cac8180a0a92
-CIPHERED TEXT: 5f30247d3ea443b4283f941bf0a135fa
+CIPHERED TEXT: 8260464268821fe4ac882fee12b730f3
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : fb239a83740d4728d25139b2a5cb7119 
+Result from DUT : a0bf7db8c97bb29d10145c0b0f8b41d6 
 
 
 ------------- Simulation Time -----------------               495000
@@ -757,13 +757,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 43eca94571d2c8f9fd2525fcc938e049
-CIPHERED TEXT: 9a1d0bc03f0794d04f0a6e4140388666
+CIPHERED TEXT: 5b00ef96a58efa36812f637d95ba99db
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : be85b59dd0f0fd13c7547860cfcbbb19 
+Result from DUT : 9c03327e0d4ed5838ec74fc4a80aaf28 
 
 
 ------------- Simulation Time -----------------               505000
@@ -772,13 +772,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 40cbbfb6f53a1e32aa88f832a508352e
-CIPHERED TEXT: 4dd0e4af95fb1c59f5e37c453b96e4eb
+CIPHERED TEXT: 8b6f0bbe302b70eefb6f80041f4789f2
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 9d039b569e13628366f42bae0d0863ff 
+Result from DUT : 303652b78fdb23bd87225d62b1afd665 
 
 
 ------------- Simulation Time -----------------               515000
@@ -787,13 +787,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: bbd05d334d85efd7f195e0b0f440d21d
-CIPHERED TEXT: 6df532ff2374416f0ea923be4184541a
+CIPHERED TEXT: 8422f1f67dc12bc9c794d45216393d00
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : f79609c75621be6c9e3c8c8cc47e95bf 
+Result from DUT : 5c14bb698e19fde3a9769373a72a75ce 
 
 
 ------------- Simulation Time -----------------               525000
@@ -802,13 +802,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ccc9125b927aba4256244d1e0488af12
-CIPHERED TEXT: 39d857aa7638dbb4b0f55c0d8141e2af
+CIPHERED TEXT: ed494478a7349e97d15cb5fd54756d20
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 421a4c847ae4d0b370beb06ad1f97dae 
+Result from DUT : 67294474f85b4bc05bf5f1c3db358ce0 
 
 
 ------------- Simulation Time -----------------               535000
@@ -817,13 +817,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 4e5412e5a2a6adfaefa4e2ef7b938bc9
-CIPHERED TEXT: 37162b8f201b084c5b8690f3f95edb8e
+CIPHERED TEXT: 07f92fe6e990ac34556b3def7c3e3c84
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 8f82c137901908da4d3879cad7d93225 
+Result from DUT : ef4259825773fd0b7c1ea6164205fe81 
 
 
 ------------- Simulation Time -----------------               545000
@@ -832,13 +832,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 3e6116096d6136c2a14d0e842cc34f64
-CIPHERED TEXT: dd670a7963eb90d62379fb9e3159079c
+CIPHERED TEXT: 27ee199d43f8d0b2e60b3add6a0c8a8a
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : b107befa5ec47911821b94e012f46438 
+Result from DUT : a6c945ec1ab571303785bd4f88ef6974 
 
 
 ------------- Simulation Time -----------------               555000
@@ -847,13 +847,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 51ac052508f2dc81a893ac34dea0ece0
-CIPHERED TEXT: 04bb3b7f61089264d55d3cbeb7ac2f05
+CIPHERED TEXT: dcb749caeae5a206128fef6344310d85
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 231aa3c6a75fa6df4cf669363acef034 
+Result from DUT : f987968af9bcdf83aa142cd28956e773 
 
 
 ------------- Simulation Time -----------------               565000
@@ -862,13 +862,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: b354160fbb7a0bc403528cb88012029f
-CIPHERED TEXT: 71642c0e5a849ba3681f24ede0893e9a
+CIPHERED TEXT: 4ce8fcf2b9d6b86aa9b5871af9cd3f23
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : e1332feb95e04fd7fc8f5cb28a1ff890 
+Result from DUT : 937f52f82f11870f18e950d0e23ce9b7 
 
 
 ------------- Simulation Time -----------------               575000
@@ -877,13 +877,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 7520d0f986d29f7b76662e6013bbd6c0
-CIPHERED TEXT: d50b128e341b2e9abb8bcc98b769a37b
+CIPHERED TEXT: 823b82fcabd235c85f2f44b275c2bfba
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : c6695ee433fda45aea03dde958dde93e 
+Result from DUT : ce8d6bb0f9cf126cef80ecc152cec623 
 
 
 ------------- Simulation Time -----------------               585000
@@ -892,13 +892,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 894a15e9bb2af96dff0bb9dfbb304b58
-CIPHERED TEXT: db0321355cb0c91129ff47bed858da58
+CIPHERED TEXT: e4d9d6398a53d9228d99d450c80a834d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : d0f7b90d95498f779125e31d9f4af493 
+Result from DUT : bbc8801a3fe49ab41228f51cc3ce95a8 
 
 
 ------------- Simulation Time -----------------               595000
@@ -907,13 +907,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 73a91ccdf8c78483062a7bf250bfec4d
-CIPHERED TEXT: 8bf8c6441caef79fb8dad4e1a5674a65
+CIPHERED TEXT: 3a31bf9d3f6ef8fe3427f65378b5f33f
 Final Outputs:
 --------------------
 DUT Done : 1
 GoldenModel Done : 1
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 1669340a7596f8c1731b69502de5fe1b 
+Result from DUT : fe2b4b94cf4ded636ac4216c24bbbd0b 
 
 
 ------------- Simulation Time -----------------               605000
@@ -937,7 +937,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 2e6b1f9cbce365da144aa2b1a7b74115
-CIPHERED TEXT: c075caa7c57fd2ddcefb1a1dc2ffa28f
+CIPHERED TEXT: 99de6c7131ea652122e5a38cc058dd90
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -952,13 +952,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: fb1e0b4fc2c6d43038860b6f4b0d5b6a
-CIPHERED TEXT: 6d1bb8c69f0ec5066819b73bdcf062d6
+CIPHERED TEXT: cad88702ad651896f16bb2130ef71f95
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : d2fd88ae47bf3a17c4d791799701e8da 
+Result from DUT : 3feab03d7bf57da625f2dcc9226712c0 
 
 
 ------------- Simulation Time -----------------               635000
@@ -967,13 +967,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: e196d64daa2c112de59e9c12ff87b964
-CIPHERED TEXT: deb035f4781bead35c4c0d97831716ee
+CIPHERED TEXT: 9ce69e79eacc1f81a164b8db1bde335e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 431e9622dfffa4413d91b328a81caad2 
+Result from DUT : 8c2fb46f486785be33f14afa652c1055 
 
 
 ------------- Simulation Time -----------------               645000
@@ -982,13 +982,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: c8c4f7b60a4e35eaf847abe2e7f1c8f5
-CIPHERED TEXT: 65f5919afac8fa2b77cc22d56181de84
+CIPHERED TEXT: ddb91b92ba2606f0fd212d5529791a3c
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 8934a44cbcc05b7dcc52642bac1e1cb7 
+Result from DUT : 04929d41ad061d6d7e32dde9935758cd 
 
 
 ------------- Simulation Time -----------------               655000
@@ -997,13 +997,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: d937889067efe5b3ec8baa15ec9f5bd4
-CIPHERED TEXT: f19b2968d1b5fed2c7b2f59f39c2b6b8
+CIPHERED TEXT: 108d1ef5617055500ed82bfd7a6a01fa
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 9cb692b0f7d34991e8781984d49486f3 
+Result from DUT : 7c42a3b3c12bac4470c61733f70e8d7c 
 
 
 ------------- Simulation Time -----------------               665000
@@ -1012,13 +1012,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 7155bfc998ba64e965f0a210259d77a4
-CIPHERED TEXT: 1dd4d05ad2f59501833673329fe58ffe
+CIPHERED TEXT: 339ba9109c8445eef7849d8a9d5d3c2e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 83f5520511489d55e664a054ff56e93a 
+Result from DUT : 8234ed271844196ffb94e09747f4bf97 
 
 
 ------------- Simulation Time -----------------               675000
@@ -1027,13 +1027,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: db7cdfb63d70df93bd463e950fd6dd6c
-CIPHERED TEXT: 5e3283fb798fae66bb95b9668674d1ed
+CIPHERED TEXT: fd594535ba3e11cfbd778ed8282f257d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 31686a14339d88a981bbecc68aaf7920 
+Result from DUT : 54d954da5466b513ce3cafcb4353536e 
 
 
 ------------- Simulation Time -----------------               685000
@@ -1042,13 +1042,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 72ec446e6fdaf7cbdfd0dcfa592908d5
-CIPHERED TEXT: 5242283a419ecc913ad52e192af9a03c
+CIPHERED TEXT: aab0b00932061eab5e77f1077868592d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 0ed27e078ab7ae49720f4f35f8640bf6 
+Result from DUT : afcaaa248ea9f446cc07b1f37dfc47b0 
 
 
 ------------- Simulation Time -----------------               695000
@@ -1057,13 +1057,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 36966bf27944e3bb5fd3daeda266922d
-CIPHERED TEXT: 0b9a511c640f2d48f2dd9c9e2934717a
+CIPHERED TEXT: 12955944f93b482c08a3b29790e678fd
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : e99944f75bcfd44306087d4ce4623b95 
+Result from DUT : 58d39674f8451032b7f3a90764688916 
 
 
 ------------- Simulation Time -----------------               705000
@@ -1072,13 +1072,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: c009db8fec4e164689b9cec70480a8fa
-CIPHERED TEXT: dd44d6892f3987c3720767bcc555463a
+CIPHERED TEXT: 69d503e9cc5740dc81cc63c34a1959d5
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : baebbcc2fcb5db004cf4c75b3fe5d24b 
+Result from DUT : 447a27ab988b0e461a6809237fc4ba6f 
 
 
 ------------- Simulation Time -----------------               715000
@@ -1087,13 +1087,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 871aecf660dddca506679eef42b9cbf9
-CIPHERED TEXT: 1c5c419dc59f68ffc2211cb146e94ce0
+CIPHERED TEXT: 04637acc2810504dc6634a1569384a7d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : 445474814feebd5bf670fe5ee2048ada 
+Result from DUT : 0d0f60e2efa34f4aa67e90d95a5aade8 
 
 
 ------------- Simulation Time -----------------               725000
@@ -1102,13 +1102,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 687fc50bad6b6df37cc4147f0801d7e9
-CIPHERED TEXT: 5b4236c9d4246594c83ba90659207ddf
+CIPHERED TEXT: f7343002003414b444109aecb7660c3d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : f79e03aa9316e6bc451777ca1394028a 
+Result from DUT : 45008fae85ebf21a25c6088d79ef4de8 
 
 
 ------------- Simulation Time -----------------               735000
@@ -1117,13 +1117,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 06080df27d7f0e04fccb2c15e16db9d4
-CIPHERED TEXT: ee5ec2ff57ede7c7dbb488e5d1ec050f
+CIPHERED TEXT: 23726ccab4f74d3e645adceafe2fab98
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : fe2b4b94cf4ded636ac4216c24bbbd0b 
-Result from DUT : ef092b8e5b81e4891f8d9f86b76265e6 
+Result from DUT : 6867de06d5cd4734d0e1943fadcf63ef 
 
 
 ------------- Simulation Time -----------------               745000
@@ -1132,13 +1132,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 23ac2f3a529df66f4961b5205e02a5fd
-CIPHERED TEXT: 79638e04f2cf04cac0bd0a0cd44ba389
+CIPHERED TEXT: e97eed72ca39b39d3dc5ac88ff293707
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : ee9432c2cb55c696d5d8f012259e353e 
+Result from DUT : 010a2e2534eb24090c75db041ffd1870 
 
 
 ------------- Simulation Time -----------------               755000
@@ -1147,13 +1147,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ae6365a80c8f0b7170cdb9f986d957f2
-CIPHERED TEXT: c2689237f8712c2abe800649a21e36bc
+CIPHERED TEXT: b2d716bfa5f53dba265071b339038f94
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 7b09f4298504b6298ab47f7363e9957f 
+Result from DUT : 5e7fdeb5ec2cbb417b64a459a93f3228 
 
 
 ------------- Simulation Time -----------------               765000
@@ -1162,13 +1162,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ca6eb158b36802faba1492d54e3869e9
-CIPHERED TEXT: ab6d492f50c718b8dbb782bed815c063
+CIPHERED TEXT: c0cd05e73fb3070771f34d6c9ca778c0
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 893c7acab2912bed47d79696e8e8ba61 
+Result from DUT : f5f4ce5f35db8392b7bad2497724d709 
 
 
 ------------- Simulation Time -----------------               775000
@@ -1177,13 +1177,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: a28ae7bb4625b73cefc68d852202f192
-CIPHERED TEXT: 40b9c62922c6919875dca31aa24a811b
+CIPHERED TEXT: a5d857419e6206cf806df6045f450a3b
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 78a506ea7dd7ce89da556b28ca9a479e 
+Result from DUT : 5a33e598aef382e2c995e1ab6863acaf 
 
 
 ------------- Simulation Time -----------------               785000
@@ -1192,13 +1192,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 2dd5931876a3a5e10139ac32e8632790
-CIPHERED TEXT: af3dd99df1c17eccdc1bc3aa4dedc5f0
+CIPHERED TEXT: ed2be9b661a968dd1b4b7fd9ea0a8802
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : e32f5ca1fbb1c5e9daede9d90df19ca4 
+Result from DUT : 74ddaaec2cf0c8620302994418f6769f 
 
 
 ------------- Simulation Time -----------------               795000
@@ -1207,13 +1207,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 83909a55f0ca5e3777664d0c2cbedf16
-CIPHERED TEXT: c9c8255be4d0b53e00a1663c093f56e8
+CIPHERED TEXT: f87247535cb69c7fcda55cde62f46e24
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 0092941c9459bf567824191c8d3d155f 
+Result from DUT : e55b7b99f29ed945351e857b7dc2ad18 
 
 
 ------------- Simulation Time -----------------               805000
@@ -1222,13 +1222,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 2e72b541122e466ad04f4f4a9def4d90
-CIPHERED TEXT: 37059f8e2735d7bdf8b1db0bc781e3fc
+CIPHERED TEXT: 8d349948918ce0137598f66f710e2d20
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 6416bfd26d4bbae098cc21b22e2157d5 
+Result from DUT : de6eff1b88cbfe504744d70639475a99 
 
 
 ------------- Simulation Time -----------------               815000
@@ -1237,13 +1237,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 03d6374f0909e41a618b22554a850a11
-CIPHERED TEXT: a2b097392f548261aab07675ac7c9c92
+CIPHERED TEXT: 3f315495038c8c8e70ea36ce8580cf9d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 0490bcd20ed1a7ecc720b61996b7fb98 
+Result from DUT : 6ae8eb7eaef068d89ffcdd96de654d19 
 
 
 ------------- Simulation Time -----------------               825000
@@ -1252,13 +1252,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 8264586a9d3fd2360da284baa148d9fb
-CIPHERED TEXT: ba13a88bf6ab47f5346a3f361f577052
+CIPHERED TEXT: 08b300acb7aab268838004b3866c298b
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : f2222932110119e541c33a481422f169 
+Result from DUT : f5bb1b9028b36bef6472e5b91428fb32 
 
 
 ------------- Simulation Time -----------------               835000
@@ -1267,13 +1267,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: c0b930eb1c436743bc64b838a2054982
-CIPHERED TEXT: 75ae3fdf199525b40c6d3c1730f1d23b
+CIPHERED TEXT: 6988e713ba30c28e243da525cf3972e7
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 4de24e6e6734cf19146ab97517c4e60c 
+Result from DUT : 5c0b1e6b839aa2ec4f7514250095f6a0 
 
 
 ------------- Simulation Time -----------------               845000
@@ -1282,13 +1282,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 06546873f4cd5cba4e633aad8b7d6ff6
-CIPHERED TEXT: 99fa1f554d69200a7408e478d8354c32
+CIPHERED TEXT: a5edd7e4fc56218b9a26676232147080
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 39ad346c517f305727c11a7aa153130c 
+Result from DUT : e6022f14e73066e1c97c0f0d7eab5dfe 
 
 
 ------------- Simulation Time -----------------               855000
@@ -1297,13 +1297,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 8561a462b214b61bb0b423ac8429d830
-CIPHERED TEXT: ec6305f6e053818ee053585cbe066b22
+CIPHERED TEXT: 88b2bd54e595b61b6d11c715eca1cfc8
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : fad9e1271ae2456dfa76dea2988c07e3 
+Result from DUT : b3e8c3abefa6c82911fbbcc37bbf3781 
 
 
 ------------- Simulation Time -----------------               865000
@@ -1312,13 +1312,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 18d70fa14b619648d027d974b287bbbb
-CIPHERED TEXT: 5e69e9bf1d0fb0e98eb7f30e88f5b7bf
+CIPHERED TEXT: 6112fb37bc2be6c2bcf92d29939d1fb6
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 0dcf000164ab82ef0becb1082b6139b9 
+Result from DUT : ef09464bf23284f2a6ad455cf3c5c13b 
 
 
 ------------- Simulation Time -----------------               875000
@@ -1327,13 +1327,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 75d93770b22de9370a583389bdc8c3ce
-CIPHERED TEXT: 3cc27b08b5242eb55bd10c58b948acf7
+CIPHERED TEXT: bb9a542dfc2e7b04b60a9d8f6476313d
 Final Outputs:
 --------------------
 DUT Done : 1
 GoldenModel Done : 1
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 9afff5ce7e681139cfc23da5950e92ab 
+Result from DUT : f9c1d7324dfb0f1f0ffe7019d6720676 
 
 
 ------------- Simulation Time -----------------               885000
@@ -1357,7 +1357,7 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 7494026941e7290571621fa3531d0c0e
-CIPHERED TEXT: 128a16fe549409c5ad9a48602aaf5982
+CIPHERED TEXT: f2b7fa71e9ac2f6a23809cf6f5680d91
 Final Outputs:
 --------------------
 DUT Done : 0
@@ -1372,13 +1372,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: bb9393dda1c10c18df7c6d6e22d1d4c9
-CIPHERED TEXT: af810d96633ea0a2d013e59155d64ed5
+CIPHERED TEXT: c4b2dd77204c5a5c9eeba554ec62975a
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 56c15d49bc004b5de6d093e629958adb 
+Result from DUT : cd806b7259203928fc51ba9836bf2557 
 
 
 ------------- Simulation Time -----------------               915000
@@ -1387,13 +1387,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 8bdbda5af54ed7b616a2ef9343d95336
-CIPHERED TEXT: 9da39531a4d3e3e8616d9a990d3b442a
+CIPHERED TEXT: 564b17365c8fc50c93f7f25003ebb3c7
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : cac0d81199f5a984d0665529d9f3a84c 
+Result from DUT : 19f694a33178717cfc1e32a712698b71 
 
 
 ------------- Simulation Time -----------------               925000
@@ -1402,13 +1402,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 3ac3e9a9091c3f739a82dec1fddebcc0
-CIPHERED TEXT: 91801ef9866504403ee6559998df9aa0
+CIPHERED TEXT: 72c4e389c6ec90c17cd8eddf07f0c2a7
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : d798d52be41462e956ff094a880eb184 
+Result from DUT : 4cfbfddf5305b9af27422bbba1b178a4 
 
 
 ------------- Simulation Time -----------------               935000
@@ -1417,13 +1417,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 2dfb1c41e165d6f2220ce0b4381535f8
-CIPHERED TEXT: 3dd411c90ee2208fd9fa0ee6763dd6c2
+CIPHERED TEXT: daeeb7242df27d051281e4fcf13bd49e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : abd1c5df1c5910d17fb72186cc5db378 
+Result from DUT : 67aa2adf69049cb1e34aa89b20d63f4b 
 
 
 ------------- Simulation Time -----------------               945000
@@ -1432,13 +1432,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 0da479466a6faf90bee245279bef321c
-CIPHERED TEXT: bfe37a08d0e1def052d64f73e88d8a0c
+CIPHERED TEXT: c125a63f245c5376c66801dc41a7d66c
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 06a3bd24add0ac78268320284f34c08f 
+Result from DUT : c5eca8248555fd72c0526c611cc4489b 
 
 
 ------------- Simulation Time -----------------               955000
@@ -1447,13 +1447,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 90089b3f66f418ec0e7e27591809c8ef
-CIPHERED TEXT: 1223548c1d5aea9677206262c429ebbf
+CIPHERED TEXT: bd4fa8aba5d36ed8282a02ba6fa8935e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 0ce970d0ef3e8f10f74219e29c6858cd 
+Result from DUT : f8e3240d150243a9202ee7daea5598da 
 
 
 ------------- Simulation Time -----------------               965000
@@ -1462,13 +1462,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 66a2f08e61396b167fae7827dbf681e5
-CIPHERED TEXT: ccc11f015261eb8c075ccdb95bfc1831
+CIPHERED TEXT: 1cfaca1b8d420e76d6f448f1087564ee
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : e304a3aaef4b6cdb7a8a03e80ee2b75e 
+Result from DUT : c55283f2aa66f815f31a9fb44e050419 
 
 
 ------------- Simulation Time -----------------               975000
@@ -1477,13 +1477,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 822b33719e2fcecbd7ed3c466148d276
-CIPHERED TEXT: c62db3a2b5d723a4edf2f8f198bcf0bd
+CIPHERED TEXT: 80f949112401218f3ebe8b7829c3a52e
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 54ec43741b72813ef34dd4355017839d 
+Result from DUT : dc14fc6f3c30d9b9b0b19c9db84db2b4 
 
 
 ------------- Simulation Time -----------------               985000
@@ -1492,13 +1492,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: c234f29b130a7b23a13180d2a6906410
-CIPHERED TEXT: f32458f2b0798d70824fd939882cab02
+CIPHERED TEXT: 0a602dbd02a534d4c7c2a7ff74ce5b4f
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : b1e815c2e6acbf65c74e5033c5693010 
+Result from DUT : fb51842a905568d654bc51883de97d15 
 
 
 ------------- Simulation Time -----------------               995000
@@ -1507,13 +1507,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: e7f57aedba227a814013c4c5b0b82da5
-CIPHERED TEXT: d5ff344e251f0a156bbbedc2f3142c8f
+CIPHERED TEXT: be3d43adcab5e09129e18495ff903f0c
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : e2807f31c44650cdbad10c868c6d6e90 
+Result from DUT : 52dff15b1e4665c17244b951ab45b10b 
 
 
 ------------- Simulation Time -----------------              1005000
@@ -1522,13 +1522,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: ddde07a3f4db242fba97768445149760
-CIPHERED TEXT: 92acd4863fcf5d9d42a328329393b059
+CIPHERED TEXT: 3b071fe6a74c819679ba2f781fa84ba1
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 36702f56ae3f4937ab293d2f76d0fb35 
+Result from DUT : 03477f40d8d1da663baeb94c36d9f07c 
 
 
 ------------- Simulation Time -----------------              1015000
@@ -1537,13 +1537,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: d2a90a8f5070bb0712b6a1541433ccf2
-CIPHERED TEXT: 82fa1b48023fb0e9145da1b3207b4350
+CIPHERED TEXT: 6b78e120c55521d51333c3eb958a250d
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f9c1d7324dfb0f1f0ffe7019d6720676 
-Result from DUT : 3a3fd90affef138afb6e57e1d2029306 
+Result from DUT : c9f60e538709868891ba67de67497384 
 
 
 ------------- Simulation Time -----------------              1025000
@@ -1552,13 +1552,13 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: 5ce904cbef33f5306f7592fd8e077e54
-CIPHERED TEXT: 8e419f34a0b8896a36813a59671ba1bb
+CIPHERED TEXT: b16279d70a2cbdee037ec64827f48796
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f702eac60a883ad948329dd34c8ebc9e 
-Result from DUT : 484d9b348972e5a9866f82160b9a4f68 
+Result from DUT : b59bea161f8065fd99d39184a5b2f2e8 
 
 
 ------------- Simulation Time -----------------              1035000
@@ -1567,10 +1567,10 @@ Inputs :
 rst : 1
 Key load : 0 
 KEY: f3bc8cc9706705e7f7c3f37f4ea2ad20
-CIPHERED TEXT: 55ef9d6c88c0f8d5e0df6696b777fbe6
+CIPHERED TEXT: b4a46ec49a604418853669378ed24d2a
 Final Outputs:
 --------------------
 DUT Done : 0
 GoldenModel Done : 0
 Result from GoldenModel : f702eac60a883ad948329dd34c8ebc9e 
-Result from DUT : 1e9b44015c189830d3dc14b5d78a07a3 
+Result from DUT : 95c96965aa8f359f1bc7ba9bb4f0a889 
