@@ -29,7 +29,7 @@ int tmp_rst = 0;
 
 
 int s_ct = 14;
-int k_ct = 26;
+int k_ct = 28;
 
 int get_done() {
 
@@ -50,14 +50,14 @@ int get_k_done() {
 
 	int temp = 0;
 
-	if (kstatus == k_ct) {
+	if (kstatus == k_ct-1) {
 		done = 1;
 		kstatus = 0;
 	}
 
-    if (kstatus == s_ct){
-        done = 1;
-    }
+//    if (kstatus == s_ct){
+//        done = 1;
+//    }
 	else
 		done = 0;
 

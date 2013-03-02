@@ -88,6 +88,10 @@ program tb (ifc.bench ds);
         end else if (t.kld_phase == 0 && t.kstatus == 14) begin
             ds.cb.ld        <=  1;   //assert load one kld_phase if finished
             ds.cb.kld       <=  0;
+            dtext[0] = t.text[0];
+            dtext[1] = t.text[1];
+            dtext[2] = t.text[2];
+            dtext[3] = t.text[3];
         end else begin
             ds.cb.ld        <=  0;
             ds.cb.kld       <=  0;
@@ -98,12 +102,7 @@ program tb (ifc.bench ds);
 		ds.cb.key[95:64 ]	<= 	t.key[95:64]; 		
 		ds.cb.key[127:96]	<= 	t.key[127:96]; 	
         
-        if (t.ld == 1) begin
-            dtext[0] = t.text[0];
-            dtext[1] = t.text[1];
-            dtext[2] = t.text[2];
-            dtext[3] = t.text[3];
-        end
+
 
         rebuild_k_text(t.text[0], 0);
 		rebuild_k_text(t.text[1], 1);
