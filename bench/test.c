@@ -29,7 +29,7 @@ int tmp_rst = 0;
 
 
 int s_ct = 14;
-int k_ct = 28;
+int k_ct = 29;
 
 int get_done() {
 
