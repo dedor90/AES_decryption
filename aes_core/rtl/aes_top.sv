@@ -3,14 +3,14 @@
 `timescale 1ns/1ps 
 
 module aes_top(ifc.dut d);
-    wire ld_e;
-    wire ld_d;
-    wire kld_d;
+    logic ld_e;
+    logic ld_d;
+    logic kld_d;
 
-    wire text_out_e;
-    wire done_e;
-    wire text_out_d;
-    wire done_d;
+    wire[127:0] text_out_e;
+    logic done_e;
+    wire[127:0] text_out_d;
+    logic done_d;
     
     always_comb begin
         //encryption mode
@@ -34,7 +34,7 @@ module aes_top(ifc.dut d);
 			.key(d.key),
 			.text_in(d.text_in),
 			.text_out(text_out_e),
-			.done(done_e),
+			.done(done_e)
 			);
 
     aes_inv_cipher_top decipher(

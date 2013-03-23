@@ -56,9 +56,27 @@ typedef struct VeriC_Descriptor *vc_handle;
 
  extern void send_ld_rst(int i, int j);
 
+ extern void send_k_ld_rst(int i, int j);
+
  extern int get_done();
 
  extern int get_status();
+
+ extern int get_k_done();
+
+ extern int get_k_status();
+
+ extern void rebuild_k_text(int txt, int i);
+
+ extern void rebuild_k_key(int ky, int i);
+
+ extern void generate_k_ciphertext();
+
+ extern void rearrange_k_text();
+
+ extern void rearrange_k_key();
+
+ extern void rearrange_k_cipher();
 
 #ifdef __cplusplus
 }

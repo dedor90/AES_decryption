@@ -11,7 +11,10 @@
 `timescale 1ns/1ps 
 
 interface ifc (input bit clk);
+logic 		mode;
+
 logic 		ld;
+logic 		kld;
 logic [127:0] 	key;
 logic [127:0] 	text_in;
 
@@ -25,7 +28,7 @@ logic 		rst;
 //        default output #1;
     
        	output 		rst;	
-        output      kld;
+        output      	kld;
         output 		ld;
     	output 		key;
     	output 		text_in;
@@ -47,7 +50,7 @@ endclocking
     input       kld,
 
 	output 		text_out,
-	output 		done,
+	output 		done
 
 	);
 
