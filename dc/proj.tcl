@@ -8,11 +8,11 @@
 #########################################
 set BEHAVIORROOT "./rtl/verilog/"
 #set top_level
-set top_level aes_sbox
+set top_level aes_inv_sbox
 source -verbose "common.tcl"
 #read_verilog {./rtl/verilog/aes_cipher_top.v}
 #read_verilog {./rtl/verilog/aes_key_expand_.v}
-read_verilog {./rtl/verilog/aes_sbox.v}
+read_verilog {./rtl/verilog/aes_inv_sbox.v}
 #read_verilog {./rtl/verilog/aes_rcon.vcd }
 
 list_designs

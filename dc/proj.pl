@@ -1,6 +1,6 @@
 print "Perl for project\n";
-open FILE1, "aes_sbox.nl.v";
-open FILE3, ">aes_sbox_final.nl.v";
+open FILE1, "aes_inv_sbox.nl.v";
+open FILE3, ">aes_inv_sbox_final.nl.v";
 while ($line=<FILE1>){
 	#chmop $line;
 if ($line =~ /^\$/ || $line =~ /^\#/){	
