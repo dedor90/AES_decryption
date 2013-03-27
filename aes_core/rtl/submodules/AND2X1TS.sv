@@ -19,7 +19,8 @@ output Y;
 input A, B;
 
   and (Y, A, B);
-  specify
+/*
+     specify
     // delay parameters
     specparam
       tplh$A$Y = 1.0,
@@ -31,5 +32,6 @@ input A, B;
     (A *> Y) = (tplh$A$Y, tphl$A$Y);
     (B *> Y) = (tplh$B$Y, tphl$B$Y);
   endspecify
+  */
 endmodule // AND2X1TS
 `endcelldefine

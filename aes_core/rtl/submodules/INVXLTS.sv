@@ -19,7 +19,7 @@ output Y;
 input A;
 
   not I0(Y, A);
-  specify
+ /* specify
     // delay parameters
     specparam
       tplh$A$Y = 1.0,
@@ -27,7 +27,7 @@ input A;
 
     // path delays
     (A *> Y) = (tplh$A$Y, tphl$A$Y);
-  endspecify
+  endspecify */
 
 endmodule // INVXLTS
 `endcelldefine

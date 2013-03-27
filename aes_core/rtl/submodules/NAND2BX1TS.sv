@@ -20,7 +20,7 @@ input AN, B;
 
   not (Ax, AN);
   nand (Y, Ax, B);
-  specify
+/*  specify
     // delay parameters
     specparam
       tplh$AN$Y = 1.0,
@@ -31,6 +31,6 @@ input AN, B;
     // path delays
     (AN *> Y) = (tplh$AN$Y, tphl$AN$Y);
     (B *> Y) = (tplh$B$Y, tphl$B$Y);
-  endspecify
+  endspecify  */
 endmodule // NAND2BX1TS
 `endcelldefine

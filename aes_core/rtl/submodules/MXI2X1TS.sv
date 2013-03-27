@@ -20,7 +20,7 @@ input A, B, S0;
 
   udp_mux2 u0(YN, A, B, S0);
   not      u1(Y, YN);
-  specify
+/*  specify
     // delay parameters
     specparam
       tplh$A$Y = 1.0,
@@ -42,7 +42,7 @@ input A, B, S0;
        (B *> Y) = (tplh$B$Y, tphl$B$Y); 
     if (A == 1'b1 && S0 == 1'b1 )
        (B *> Y) = (tplh$B$Y, tphl$B$Y);
-  endspecify
+  endspecify  */
 
 endmodule // MXI2X1TS
 `endcelldefine
